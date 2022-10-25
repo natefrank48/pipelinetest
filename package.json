@@ -1,0 +1,19 @@
+{
+  "name": "pipelinetest",
+  "version": "1.0.0",
+  "description": "first pipeline with github",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natefrank48/pipelinetest.git"
+  },
+  "author": "Nathan Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natefrank48/pipelinetest/issues"
+  },
+  "homepage": "https://github.com/natefrank48/pipelinetest#readme"
+}
